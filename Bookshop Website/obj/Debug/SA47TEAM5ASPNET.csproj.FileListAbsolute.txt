@@ -1,0 +1,835 @@
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\ApplicationInsights.config
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll.config
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.pdb
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe.config
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.rsp
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe.config
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.rsp
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.AppContext.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Console.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Compression.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Claims.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.ValueTuple.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe.config
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.rsp
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Owin.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\WebGrease.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.pdb
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csprojAssemblyReference.cache
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CoreCompileInputs.cache
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CopyComplete
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.dll
+C:\Users\SamJingWen\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.pdb
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\ApplicationInsights.config
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll.config
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.pdb
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe.config
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.rsp
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe.config
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.rsp
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.AppContext.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Console.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.Process.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Pipes.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.AccessControl.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Claims.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Threading.Thread.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe.config
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.rsp
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.bootstrap.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.jQuery.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ApplicationInsights.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.WebForms.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Owin.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\WebGrease.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.pdb
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csprojAssemblyReference.cache
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CoreCompileInputs.cache
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CopyComplete
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.dll
+D:\OneDrive - inc\GDipSA\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.pdb
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\ApplicationInsights.config
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll.config
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.pdb
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe.config
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.rsp
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe.config
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.rsp
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.AppContext.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Console.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Compression.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Claims.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.ValueTuple.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe.config
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.rsp
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Owin.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\WebGrease.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.pdb
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csprojAssemblyReference.cache
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CopyComplete
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.dll
+C:\Users\Henry\source\repos\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.pdb
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\ApplicationInsights.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.pdb
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.rsp
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.rsp
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.AppContext.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Console.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Compression.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Claims.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.ValueTuple.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.rsp
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Owin.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\WebGrease.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.pdb
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csprojAssemblyReference.cache
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CoreCompileInputs.cache
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CopyComplete
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v1\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.pdb
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\ApplicationInsights.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.pdb
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.rsp
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.rsp
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.AppContext.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Console.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Compression.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Claims.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.ValueTuple.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.rsp
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Owin.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\WebGrease.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.pdb
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csprojAssemblyReference.cache
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CoreCompileInputs.cache
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CopyComplete
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.dll
+C:\Users\SamJingWen\Desktop\SA47TEAM5ASPNET v2\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.pdb
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\ApplicationInsights.config
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll.config
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.pdb
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe.config
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.rsp
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe.config
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.rsp
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.AppContext.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Console.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.Process.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Compression.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Pipes.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.AccessControl.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Claims.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Threading.Thread.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.ValueTuple.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe.config
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.rsp
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.bootstrap.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.jQuery.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Web.Infrastructure.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Owin.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\WebGrease.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.pdb
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csprojAssemblyReference.cache
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CoreCompileInputs.cache
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CopyComplete
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.dll
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.pdb
+C:\SA Course\MWEB\SA47TEAM5ASPNET v3\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\zh-Hans\EntityFramework.resources.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\ApplicationInsights.config
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll.config
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\SA47TEAM5ASPNET.pdb
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.exe.config
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csc.rsp
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.exe.config
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\csi.rsp
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.AppContext.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Console.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.Process.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Compression.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.IO.Pipes.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.AccessControl.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Claims.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Threading.Thread.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.ValueTuple.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.exe.config
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\vbc.rsp
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.bootstrap.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\AspNet.ScriptManager.jQuery.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Web.Infrastructure.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Owin.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\WebGrease.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Optimization.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Newtonsoft.Json.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Antlr3.Runtime.pdb
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\EntityFramework.SqlServer.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Web.Providers.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Facebook.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Google.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.Twitter.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.AI.Web.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\bin\zh-Hans\EntityFramework.resources.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csprojAssemblyReference.cache
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CoreCompileInputs.cache
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.csproj.CopyComplete
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.dll
+C:\SA文件\ASP.NET ca\SA47TEAM5ASPNET\SA47TEAM5ASPNET\obj\Debug\SA47TEAM5ASPNET.pdb
